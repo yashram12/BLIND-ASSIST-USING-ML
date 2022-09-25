@@ -12,3 +12,4 @@ The proposed system is to build a customized application which acts as a voice a
 3)Time/Date and Battery Status – In this module the user can get the phone’s current battery status and also know date and time.
 
 4)Camera – This module will be used to identify Indian currency denomination and predict the notes scanned by the camera.    
+    
